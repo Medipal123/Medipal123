@@ -17,11 +17,11 @@ I am a Full-Stack Developer who loves turning complex ideas into clean, user-fri
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 
 # 📈 GitHub Stats
-![](https://github-readme-stats.shion.dev/api?username=Medipal123&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Medipal123&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Medipal123&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Medipal123&show_icons=true&hide_border=false" alt="Manisha's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Medipal123&layout=compact&hide_border=false" alt="Top Languages" />
+</p>
 
----
-[![](https://komarev.com/ghpvc/?username=Medipal123&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 
