@@ -18,7 +18,6 @@ I am a Full-Stack Developer who loves turning complex ideas into clean, user-fri
 
 # 📈 GitHub Stats
 
-<br>
 ![](https://github-readme-stats.shion.dev/api?username=Medipal123&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Medipal123&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
